@@ -1,0 +1,13 @@
+.app-container {
+    text-align: center;
+    min-height: 100vh;
+    padding: 20px;
+    background: linear-gradient(to right, #7EC9F5, #E4F7F5);
+  }
+  
+  .app-title {
+    margin: 10px 0 20px;
+    font-size: 3rem;
+    color: #333;
+  }
+  
