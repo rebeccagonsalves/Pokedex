@@ -16,7 +16,7 @@ This application is a Pokemon Rolodex that displays a list of Pokémon fetched f
 
 ## Deployed App
 You can view the live app at:  
-[https://yourusername.github.io/pokemon-rolodex](https://yourusername.github.io/pokemon-rolodex)
+[https://rebeccagonsalves.github.io/pokedex](https://rebeccagonsalves.github.io/pokedex)
 
 ## Setup
 1. Clone the repository.
