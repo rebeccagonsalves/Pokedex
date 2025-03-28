@@ -1,4 +1,4 @@
-# Pokedex
+# Pokemon Rolodex
 This application is a Pokemon Rolodex that displays a list of Pokémon fetched from the [PokeAPI](https://pokeapi.co/). Users can filter the Pokémon by name using the search box. The app demonstrates core React concepts including:
 
 - A form for user input (search functionality)
@@ -16,7 +16,7 @@ This application is a Pokemon Rolodex that displays a list of Pokémon fetched f
 
 ## Deployed App
 You can view the live app at:  
-[https://rebeccagonsalves.github.io/pokedex](https://rebeccagonsalves.github.io/pokedex)
+[https://rebeccagonsalves.github.io/pokedex](https://rebeccagonsalves.github.io/Pokedex)
 
 ## Setup
 1. Clone the repository.
