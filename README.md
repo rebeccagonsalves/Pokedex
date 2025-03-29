@@ -16,7 +16,7 @@ You can view the live app at:
 - **Dynamic Filtering Logic**: Combines filters using React state.
 - **Paginated Results**: Displays Pokémon in pages (2 rows at a time), with navigation.
 - **View Pokémon Details**: Click a card to see a detailed modal with height, weight, types, abilities and base stats (HP, Attack, Defense, Speed, etc.)
-- **Clean and Responsive UI:** Custom CSS with a Google Font and background gradient.
+- **Clean and Responsive UI:** Custom CSS with a Google Font and background gradient. Background colour changes when you chose different Pokemon Types.
 - **Deployment:** Deployed online (via GitHub Pages) and the code is maintained in a Git repository.
 
 ## Setup
