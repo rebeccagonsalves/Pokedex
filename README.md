@@ -9,7 +9,7 @@ This application is a Pokemon Rolodex that displays a list of Pokémon fetched f
 
 ## Deployed App
 You can view the live app at:  
-[https://rebeccagonsalves.github.io/pokedex](https://rebeccagonsalves.github.io/Pokedex)
+[https://rebeccagonsalves.github.io/Pokedex](https://rebeccagonsalves.github.io/Pokedex)
 
 ## Features
 - **Search Form**: Filter Pokémon by name with autocomplete suggestions.
