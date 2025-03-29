@@ -24,4 +24,4 @@ You can view the live app at:
 2. Run `npm install` to install dependencies.
 3. Run `npm start` to launch the development server.
 4. To build for production, run `npm run build`.
-5. To deploy, run 'npm run deploy'
+5. To deploy, run `npm run deploy`
